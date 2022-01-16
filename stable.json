@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Birkje Front-end",
+        "module": "birkje-frontend",
+        "description": "Frontend site for Birkje.nl",
+        "author": "Birkje Team",
+        "version": "1.0.0",
+        "repository": "https://github.com/birkje/birkje-frontend",
+        "latest": "https://github.com/birkje/birkje-frontend/archive/refs/tags/1.0.0.zip",
+        "license": "GPLv3"
+    }
+]
